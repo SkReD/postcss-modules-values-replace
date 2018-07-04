@@ -1,5 +1,7 @@
 # PostCSS Modules Values Replace [![Build Status][ci-img]][ci]
 
+> ⚠ Diffirence from original repo: Removed async/await usage so the plugin now works at node version 6.11.0 and greater
+
 [PostCSS] plugin to work around CSS Modules values limitations.
 
 [ci]: https://travis-ci.org/princed/postcss-modules-values-replace
