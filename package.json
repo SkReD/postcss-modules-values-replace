@@ -13,11 +13,11 @@
   ],
   "author": "Eugene Datsky <eugene@datsky.ru>",
   "license": "ISC",
-  "repository": "princed/postcss-modules-values-replace",
+  "repository": "SkReD/postcss-modules-values-replace",
   "bugs": {
-    "url": "https://github.com/princed/postcss-modules-values-replace/issues"
+    "url": "https://github.com/SkReD/postcss-modules-values-replace/issues"
   },
-  "homepage": "https://github.com/princed/postcss-modules-values-replace",
+  "homepage": "https://github.com/SkReD/postcss-modules-values-replace",
   "dependencies": {
     "enhanced-resolve": "^3.1.0",
     "es6-promisify": "^5.0.0",
